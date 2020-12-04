@@ -1,0 +1,47 @@
+.card-img-top{
+    width: 25em;
+    padding: 30px;
+    margin-top: -11px;
+    /* border-image-outset: inherit; */
+    border: 10px solid #555;
+  }
+ .logo{
+    width: 151px;
+ }.blockquote{
+   font-family: 'Courier New', Courier, monospace;
+}#rrr{
+
+}.text-centerr {
+    text-align: center!important;
+    padding: 16px;
+    width: 420px;
+    height: 485px;
+    
+}.heading{
+    text-align: center!important;
+    padding: 16px;
+}.text-center {
+    text-align: center!important;
+    padding: 49px;
+}#home{
+    background-color: #181b38;
+
+}.fab, .far {
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 55px;
+    color: #891355;
+}.navbar-light .navbar-nav .nav-link {
+    color: #181b38;
+}.myslides{
+
+}#photo{
+
+    height: 270px;
+    width: 350px;
+}.card-img-top2{
+    height: 232px;
+    width: 311px;
+    margin-left: 9px;
+    margin-top: 10px;
+}
