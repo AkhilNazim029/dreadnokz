@@ -920,7 +920,7 @@ a.move-top span{
 		width: 80%;
 	}
 	.panel-thumbnail img {
-		width: 100px;
+		width: 100%;
 	}
 	.tab-main label img {
 		display: block;
