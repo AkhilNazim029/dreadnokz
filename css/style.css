@@ -53,6 +53,51 @@ h6 {
     margin: 0;
     letter-spacing: 1px;
 }
+.qdrz{
+    font-size: 1em;
+    font-family: cursive;
+    padding: 16px;
+    margin-left: 9px;
+    
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.drzz{
+    font-size: 1em;
+    font-family: cursive;
+    padding: 16px;
+    margin-left: 15px;
+    
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+#link-drz{
+    font-size: 2em;
+    font-family: cursive;
+    padding: 16px;
+    margin-left: 15px;
+    
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
 
 p {
     margin: 0;
@@ -138,6 +183,28 @@ ul.submenu {
     box-shadow: 0 1px 8px rgba(20, 21, 21, 0.37);
     -webkit-box-shadow: 0 1px 8px rgba(20, 21, 21, 0.37);
     -moz-box-shadow: 0 1px 8px rgba(20, 21, 21, 0.37);
+}
+#card{
+    
+    background-color: transparent;
+    
+}
+.p-5 {
+    padding: 3rem !important;
+    background-color: black;
+  }
+#fa{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 4em;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text; 
 }
 
 ul.submenu li a {
@@ -442,7 +509,7 @@ a.abt-btn {
     color: #2a5298;
 }
 .panel-thumbnail img {
-    width: 220px;
+    width: 100px;
 }
 .panel.panel-default {
     box-shadow: 0px 2px 5px 2px rgba(76, 110, 245, .1);
@@ -477,6 +544,11 @@ p.sub-meta {
 	font-size: 1.2em;
 	font-weight: 600;
 }
+#logodrz{
+    color: snow;
+    font-family: ui-sans-serif;
+}
+
 
 .text-info-sec p {
 	color: #666;
